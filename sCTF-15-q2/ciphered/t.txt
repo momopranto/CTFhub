@@ -1,0 +1,2 @@
+def t(f, n):
+	return f.translate(string.maketrans(alphabet[n:]+alphabet[:n],alphabet))
